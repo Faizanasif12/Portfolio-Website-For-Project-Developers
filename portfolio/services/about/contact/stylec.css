@@ -1,0 +1,121 @@
+.c{
+    background-color: rgb(255, 255, 255);
+}
+.nav-logo{
+    width: 140px !important;
+}
+.nav-link{
+    color: rgb(255, 255, 255) !important;
+    font-weight: normal;
+    margin: 30px !important;
+    font-size: x-large;
+}
+
+.top-heading{
+    color: rgb(5, 183, 196);
+    font-weight: normal;
+    text-align: center;
+    font-size: x-large;
+}
+.responsiv-icon{
+    color: white !important;
+}#con{
+    display: none;
+}
+.wrapper{
+    text-align: center;
+}
+/* #contact-us{
+    color:orange;
+}
+.wrapper .input_field {
+    margin-bottom: 10px;
+}
+
+.wrapper .input_field input[type="text"],
+.wrapper textarea {
+    border: 3px solid #e0e0e0;
+    width: 30%;
+    padding: 10px;
+}
+
+.wrapper textarea {
+    resize: none;
+    height: 80px;
+}
+
+.wrapper .btn input[type="submit"] {
+    border: 0px;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 50%;
+    background: teal;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+#error_message {
+    margin-bottom: 20px;
+    background: #ff7478;
+    padding: 0px;
+    text-align: center;
+    font-size: 14px;
+    transition: all 0.5s ease;
+}
+
+.form-btn {
+    background-color: white !important;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+} */
+#Contact{
+    text-align: center;
+    color:rgb(12, 164, 214);
+    font-size: 30px;
+}
+#Text{
+    text-align: center;
+    font-size: 20px;
+}
+
+.footer{
+    background-color: lightgreen;
+    width: 100%;
+    height: 100px;
+
+
+}
+.a{
+    width: 50px;
+    height: 40px;
+    display: inline-block ;
+}
+.t{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+} 
+.footer-end{
+    width: 100%;
+    height: 50px;
+    background-color: #002f34;
+    padding: 10px;
+    text-align: center;
+   
+}
+.copyright-text{
+  color: white !important;
+  font-size: 13px;
+}
+.author{
+    color: goldenrod;
+}
+
+/* .social-icons{
+margin-left: 100px;
+} */
